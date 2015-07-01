@@ -1,0 +1,1 @@
+Update and track goods for a grocery. Sub-system to dynamically issue stock-up requests for goods near depletion. Sub-system to track and warn of impending expiry of goods should be included as well.
